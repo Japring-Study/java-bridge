@@ -26,7 +26,6 @@ public class BridgeMaker {
             } else {
                 result.add("U");
             }
-
         }
         return result;
     }

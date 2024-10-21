@@ -2,8 +2,6 @@ package bridge;
 
 import camp.nextstep.edu.missionutils.Console;
 
-import javax.xml.validation.Validator;
-
 import static bridge.BridgeValidator.*;
 
 /**
